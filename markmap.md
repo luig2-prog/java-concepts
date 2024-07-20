@@ -1,0 +1,117 @@
+# Roadmap para Aprender Java
+
+## Fundamentos de Java
+- Instalación y Configuración
+  - Instalar JDK
+  - Configurar IDE (IntelliJ, Eclipse)
+- Conceptos Básicos
+  - Sintaxis de Java
+  - Tipos de datos y operadores
+  - Estructuras de control
+- POO (Programación Orientada a Objetos)
+  - Clases y objetos
+  - Herencia, polimorfismo
+  - Interfaces y clases abstractas
+- Manejo de Errores
+  - Excepciones y su manejo
+- Colecciones
+  - List, Set, Map
+  - Iteradores
+- I/O
+  - Archivos y flujos
+- Java 8
+  - Nuevas características
+  - Lambdas y Streams
+  - Date and Time API
+
+## Java Intermedio
+- Programación Genérica
+  - Uso de generics
+  - Métodos y clases genéricas
+- Streams y Lambda
+  - Expresiones lambda
+  - API Streams
+- Concurrencia
+  - Hilos y ejecución concurrente
+  - CompletableFuture y Streams paralelos
+- NIO.2
+  - Operaciones no bloqueantes
+- Bibliotecas de terceros
+  - Guava, Apache Commons
+- JavaServer Faces (JSF) y JSP
+  - Fundamentos de JSF
+    - Introducción a JSF
+    - Configuración del Entorno
+    - Ciclo de Vida de una Aplicación JSF
+  - Componentes y Beans
+    - Componentes JSF
+    - Managed Beans
+    - Navegación en JSF
+    - Validación y Conversión
+    - Internacionalización (i18n)
+    - Integración con PrimeFaces
+  - JavaServer Pages (JSP)
+    - Introducción a JSP
+    - Configuración del Entorno
+    - Sintaxis de JSP
+    - Directivas JSP (page, include, taglib)
+    - Scriptlets y Expresiones JSP
+    - Uso de JavaBeans en JSP
+    - Manejo de sesiones en JSP
+    - Uso de JSTL (JSP Standard Tag Library)
+    - Manejo de errores en JSP
+
+## Java Avanzado
+- JVM Internals
+  - Garbage Collection
+  - JIT Compilation
+- Optimización y Performance
+  - Profiler Tools
+  - Análisis de rendimiento
+- Seguridad en Java
+  - Criptografía
+  - Manejo de identidades
+- Redes y Sockets
+  - Programación con Sockets
+  - NIO
+- Patrones de Diseño
+  - Singleton, Factory, Observer
+- JPA y JPQL
+  - Fundamentos de JPA
+  - Consultas con JPQL
+
+## Spring Boot
+- Introducción a Spring Boot
+  - Configuración y creación de proyectos
+- Dependencias y Beans
+  - Inyección de dependencias
+  - Configuración de beans
+- Controladores y REST API
+  - Creación de controladores
+  - Manejo de requests y responses
+- JPA y Bases de Datos
+  - Configuración de JPA
+  - Repositorios y entidades
+  - Oracle como motor de búsqueda de datos
+- Seguridad
+  - Spring Security
+- Testing
+  - Pruebas unitarias e integración
+
+## Experto en Java
+- Optimización avanzada
+  - Bytecode Engineering
+  - ASM
+- Programación Reactiva
+  - Project Reactor
+  - RxJava
+- Arquitecturas de Microservicios
+  - Spring Cloud
+  - Kubernetes
+- Sistemas Distribuidos
+  - Apache Kafka
+  - Redis
+- Herramientas y DevOps
+  - Docker
+  - Jenkins
+  - CI/CD
